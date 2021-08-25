@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545966495 source:c:\users\musti\onedrive\masaüstü\ödev\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

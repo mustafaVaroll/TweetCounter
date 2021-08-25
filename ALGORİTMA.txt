@@ -1,0 +1,10 @@
+ALGORÝTMA
+csv dosyasýdaki  tweet sýrasýnýn ayný olmasýyla txt  dosyasýna kopyalama ve  txt dosyasýný okutarak kelime ve sayýlarýný bulma,
+Büyükten küçüðe sayýlarý sýralama ve hangi kelimeyse onu diðer txt dosyasýndan bulup ekrana yazma
+
+
+NASIL YAPILDIÐI
+Csv dosyasýndaki twetler hepsi ayný sýradaydý sadece twitleri  bir output.txt dosyasýna  kopyaladým.
+Onlarý tek tek okutup kellimeleri kaç tekrarlý olduðunu bir diziye  attým. Hangi  kelimenin  kaç tekrarý olduðunu bilmek için kelime ve sayýlarýnýda bir wordandnumber.txt  dosyasýna attým.
+Sonunda dizideki tuttuðum sayýlarý sýraladým.
+En büyük on tanesinide workandnumber.txt tesinde de buldum ve ekrana  yazdýrdým.  
